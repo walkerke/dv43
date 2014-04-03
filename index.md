@@ -117,7 +117,12 @@ pre {
 
 ## Open-source data visualization
 
-(image of examples)
+Examples: 
+
+* [D3.js](http://d3js.org)
+* [rCharts](http://rcharts.io/gallery/)
+
+More to follow...
 
 ---
 
