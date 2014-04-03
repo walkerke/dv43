@@ -50,7 +50,16 @@ pre {
 
 ## Why data visualization?
 
-(info here about amount of data produced, need to distill information)
+<img src=assets/img/snow.jpg style="width: 550px">
+
+<span class="footnote">Source: Wikimedia Commons</span>
+
+---
+
+## Interactive visualization
+
+* [Global burden of disease heat map from IHME at UW](http://ihmeuw.org/u8)
+
 
 ---
 
@@ -154,7 +163,7 @@ pre {
 
 * CartoDB: cloud-based service for spatial data hosting and visualization
 * http://cartodb.com
-* Data for demonstration: [megacities data from the United Nations](https://raw.githubusercontent.com/walkerke/tlc2014/gh-pages/data/mega.csv) 
+* Data for demonstration: [megacities data from the United Nations](https://dl.dropbox.com/s/2k2da3sxfvuyrty/mega2.csv) 
 
 ---
 
@@ -168,7 +177,7 @@ pre {
 
 * plotly: online interactive charting tool
 * http://plot.ly
-* Data for demonstration: [HIV/AIDS prevalence data from the World Bank]()
+* Data for demonstration: [HIV/AIDS prevalence data from the World Bank](https://dl.dropbox.com/s/uik87t3ik12h8e4/hiv.csv)
 
 ---
 
@@ -190,6 +199,7 @@ pre {
 
 * GitHub: online platform for sharing code and data
 * Teaching with Interactive Data Visualization website: http://walkerke.github.io
+* [bl.ocks.org](http://bl.ocks.org): Viewer for GitHub gists
 
 ---
 
@@ -197,6 +207,15 @@ pre {
 
 * Data visualization Faculty Interest Group through CTE at TCU
 * Program development and workshops at TCU
+
+---
+
+## Questions and discussion
+
+### Contact information: 
+
+* Email: <kyle.walker@tcu.edu>
+* Twitter: [@kyle_e_walker](https://twitter.com/kyle_e_walker)
 
 
 
