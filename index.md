@@ -132,7 +132,7 @@ More to follow...
 
 ## Teaching: US demographic change
 
-<iframe src="https://dl.dropbox.com/s/ka2xiwy9s9bjtza/chart1.html" width="825" height="500" seamless></iframe>
+<iframe src="http://dl.dropbox.com/s/ka2xiwy9s9bjtza/chart1.html" width="825" height="500" seamless></iframe>
 
 <span class="footnote">Data source: US Census Bureau</span>
 
@@ -140,7 +140,7 @@ More to follow...
 
 ## Teaching: fertility rates in Europe
 
-<iframe src="https://dl.dropbox.com/s/atqfmcybgl1rk5n/tfrplot.html" width="825" height="500" seamless></iframe>
+<iframe src="http://dl.dropbox.com/s/atqfmcybgl1rk5n/tfrplot.html" width="825" height="500" seamless></iframe>
 
 <span class="footnote">Data source: World Bank</span>
 
@@ -148,7 +148,7 @@ More to follow...
 
 ## Teaching: HIV/AIDS in Zimbabwe
 
-<iframe src="https://dl.dropbox.com/s/a6sq2i7r5xz1j6q/zimbabwe_pyramid.html" width="825" height="500" seamless></iframe>
+<iframe src="http://dl.dropbox.com/s/a6sq2i7r5xz1j6q/zimbabwe_pyramid.html" width="825" height="500" seamless></iframe>
 
 <span class="footnote">Data source: US Census Bureau</span>
 
